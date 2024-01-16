@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Proiect_SCD/1.0.0": {
+        "runtime": {
+          "Proiect_SCD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proiect_SCD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
